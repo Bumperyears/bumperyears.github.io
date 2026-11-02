@@ -2,7 +2,7 @@
 
 An archive of 167 Israeli left-wing political bumper stickers, 1995–2005, from one activist's album — transcribed, translated, attributed where possible, dated, and annotated. Bilingual (English / Hebrew).
 
-**Site:** https://bumperyears.github.io
+**Site:** https://bumperyears.org (also reachable at https://bumperyears.github.io)
 **Contact:** bumperyears@duck.com
 
 ## What is here
@@ -18,7 +18,7 @@ Each record in `data.json` has:
 
 | field | meaning |
 |---|---|
-| `id` | catalogue number (S001–S169); permanent address is the site URL + `#S027` |
+| `id` | catalogue number (S001–S169); permanent address is `https://bumperyears.org/#S027` |
 | `file` | image filename in `img/` and `thumb/` |
 | `hebrew` | text as printed, lines separated by ` / ` |
 | `english` | translation, with puns glossed in parentheses |

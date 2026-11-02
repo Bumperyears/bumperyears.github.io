@@ -6,7 +6,7 @@ You may copy, redistribute, adapt and build on this material for any purpose, in
 
 Licence text: https://creativecommons.org/licenses/by/4.0/
 
-Suggested credit: *The Bumper Years / שנות המדבקה, https://bumperyears.github.io, CC BY 4.0.*
+Suggested credit: *The Bumper Years / שנות המדבקה, https://bumperyears.org, CC BY 4.0.*
 
 **Sticker designs** — the artwork, slogans and logos printed on the stickers themselves belong to the parties, movements and individuals that issued them. They are reproduced here for documentation and study. The licence above does not and cannot cover them.
 
